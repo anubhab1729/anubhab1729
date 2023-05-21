@@ -61,6 +61,14 @@ hobbies: ["Gaming", "Cinema", "Sketching", "Art", "Gardenting"]
 ![Anubhab's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anubhab1729&show_icons=true&theme=dark) 
 
 ---
+<br>
+<h2>🔥 Streak Stats</h2>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=anubhab1729&theme=dracula" alt="anubhab1729"/>
+</p>
+
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab1729&layout=donut)](https://github.com/anubhab1729/github-readme-stats)
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
