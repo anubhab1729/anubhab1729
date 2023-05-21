@@ -3,9 +3,7 @@
   Hi there
 </h1>
 <br><br>
-<p align="center">
-  <img src= "https://giphy.com/embed/WoD6JZnwap6s8">
-</p>
+<iframe src="https://giphy.com/embed/WoD6JZnwap6s8" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-matrix-WoD6JZnwap6s8">via GIPHY</a></p>
  
 ---
 <h2>&nbsp; About Me</h2>
