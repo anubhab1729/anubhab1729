@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋<br> I'm Anubhab, Welcome 2 my Github Page
 
 
 <h2>&nbsp; About Me</h2>
 
 ```yaml
-name: ANUBHAB GHOSH
+name: <h2>ANUBHAB GHOSH</h2>
 located_in: Burdwan, West Bengal
 current_job: Associate Software Enginee
 education:
