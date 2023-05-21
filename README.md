@@ -48,12 +48,12 @@ hobbies: ["Gaming", "Cinema", "Sketching", "Art", "Gardenting"]
 </p><br>
 
 ---
----
 <br>
+
 <h2>&nbsp;</h2>
 
 ![Anubhab's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anubhab1729&show_icons=true&theme=dark) 
-<br>
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
