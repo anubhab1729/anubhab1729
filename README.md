@@ -5,7 +5,7 @@
 <br><br>
  
 <p align="center">
-  <img src= "https://giphy.com/embed/WoD6JZnwap6s8/giphy.gif">
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
 </p>
  
 ---
@@ -58,15 +58,14 @@ hobbies: ["Gaming", "Cinema", "Sketching", "Art", "Gardenting"]
 ---
 <br>
 
-<p align="center">
 ![Anubhab's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anubhab1729&show_icons=true&theme=dark) 
-</p>
+
 
 ---
 <br>
 <h2>🔥 Streak Stats</h2>
 
-<p align="center">
+<p align="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=anubhab1729&theme=dracula" alt="anubhab1729"/>
 </p>
 
