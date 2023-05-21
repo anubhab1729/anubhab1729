@@ -50,8 +50,6 @@ hobbies: ["Gaming", "Cinema", "Sketching", "Art", "Gardenting"]
 ---
 <br>
 
-<h2>&nbsp;</h2>
-
 ![Anubhab's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anubhab1729&show_icons=true&theme=dark) 
 
 <p align="left">
