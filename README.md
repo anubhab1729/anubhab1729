@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-<h2>About Me</h2>
+<h2>🚀&nbsp; About Me</h2>
+
 ```yaml
 name: ANUBHAB GHOSH
 located_in: Burdwan, West Bengal
@@ -23,8 +24,9 @@ fields_of_interests:
 currently_learning: ["React, Node, MongoDB, Docker and Kubernetes"]
 2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Sketching", "Art", "Gardenting"]
-```
 
+```
+---
 <h2> 🚀&nbsp;Some Tools I Have Using and Learning</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -44,9 +46,9 @@ hobbies: ["Gaming", "Cinema", "Sketching", "Art", "Gardenting"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> 
 </p>
-
+---
 ![Anubhab's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anubhab1729&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab1729&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab1729&layout=donut)](https://github.com/anubhab1729/github-readme-stats)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
