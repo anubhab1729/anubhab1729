@@ -1,9 +1,12 @@
-### Hi there 👋<br>
-I'm Anubhab, Welcome to my Github Page
+
+<h1 align="center">
+  Hi there
+</h1>
 <br><br>
 <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src= "https://giphy.com/embed/WoD6JZnwap6s8">
 </p>
+ 
 ---
 <h2>&nbsp; About Me</h2>
 
