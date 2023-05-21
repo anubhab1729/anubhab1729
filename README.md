@@ -27,7 +27,7 @@ hobbies: ["Gaming", "Cinema", "Sketching", "Art", "Gardenting"]
 
 ```
 ---
-<h2> 🚀&nbsp;Some Tools I Have Using and Learning</h2>
+<h2> 🚀&nbsp;Some Tools I Have Using and Learning</h2><br>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
@@ -45,12 +45,13 @@ hobbies: ["Gaming", "Cinema", "Sketching", "Art", "Gardenting"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> 
-</p>
+</p><br>
 
 ---
+<br>
 <h2>&nbsp;</h2>
-![Anubhab's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anubhab1729&show_icons=true&theme=dark)
- 
+![Anubhab's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anubhab1729&show_icons=true&theme=dark) 
+<br>
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
