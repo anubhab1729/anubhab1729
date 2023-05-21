@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h2>🚀&nbsp; About Me</h2>
+<h2>&nbsp; About Me</h2>
 
 ```yaml
 name: ANUBHAB GHOSH
@@ -46,7 +46,7 @@ hobbies: ["Gaming", "Cinema", "Sketching", "Art", "Gardenting"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> 
 </p>
----
+
 ![Anubhab's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anubhab1729&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab1729&layout=donut)](https://github.com/anubhab1729/github-readme-stats)
 
