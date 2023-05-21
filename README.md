@@ -47,11 +47,10 @@ hobbies: ["Gaming", "Cinema", "Sketching", "Art", "Gardenting"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> 
 </p>
 
-<h6>&bnsp;</h6>
+---
+<h2>&nbsp;</h2>
 ![Anubhab's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anubhab1729&show_icons=true&theme=dark)
-<h6>&bnsp;</h6>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab1729&layout=donut)](https://github.com/anubhab1729/github-readme-stats)
-
+ 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
