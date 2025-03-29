@@ -13,7 +13,7 @@
 
 ```yaml
 name: ANUBHAB GHOSH
-designation: 
+designation: Yet another soul finding the purpose
 located_in: Burdwan, West Bengal
 current_job: Software Engineer | Data Engineer
 company: Tech Mahindra Ltd.
@@ -21,7 +21,7 @@ education:
   [
     "Bachelor's in Computer Science and Engineering"
   ]
-batch_of:["2023"]
+batch_of: 2023
 fields_of_interests:
   [
     "Data Engineering | Data Science",
@@ -41,7 +41,7 @@ hobbies: ["Quizzing","Gaming", "Cinema", "Sketching", "Art", "Gardenting"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="vscode" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="vscode" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
