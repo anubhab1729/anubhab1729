@@ -1,44 +1,49 @@
 
 <h1 align="center">
-  Helooooooo there !
+  Hii there... 
 </h1>
 <br><br>
  
-<p align="center">
+<!-- <p align="center"> -->
 <!--   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp"> -->
-</p>
+<!-- </p> -->
  
 ---
 <h2>&nbsp; About Me</h2>
 
 ```yaml
 name: ANUBHAB GHOSH
+designation: 
 located_in: Burdwan, West Bengal
-current_job: Associate Software Enginee
+current_job: Software Engineer | Data Engineer
+company: Tech Mahindra Ltd.
 education:
   [
-    "Bachelor's in Computer Science and Engineering",
+    "Bachelor's in Computer Science and Engineering"
   ]
-company: Not Yet Joined
+batch_of:["2023"]
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
+    "Data Engineering | Data Science",
     "Machine Learning",
-    "Java",
     "Competetive Programming",
-    "DevOps",
-  ] 
-currently_learning: ["React, Node, MongoDB, Docker and Kubernetes"]
-2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Sketching", "Art", "Gardenting"]
+    "Web Development",
+  ]
+currently_working_on: ["ETL","Automation"]
+currently_using: ["IICS","GCP","Shell Scripting","Python","Git Hub","Linux","Post Man","Java"]
+2025 Goals: ["Time Travelling"]
+hobbies: ["Quizzing","Gaming", "Cinema", "Sketching", "Art", "Gardenting"]
 
 ```
 ---
 <h2> 🚀&nbsp;Tools I am Using and Learning</h2><br>
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="vscode" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
@@ -49,8 +54,7 @@ hobbies: ["Gaming", "Cinema", "Sketching", "Art", "Gardenting"]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> 
 </p><br>
